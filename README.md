@@ -1,4 +1,4 @@
-# testovoe
+# Простое приложение с блоками на Vue
 
 > A Vue.js project
 
